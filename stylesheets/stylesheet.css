@@ -245,3 +245,17 @@ a {
 .cf {
   zoom:1;
 }
+
+.about-links {
+  display: table;
+}
+.about-links li {
+  display: table-row;
+}
+.about-links .about-link,
+.about-links .about-label {
+  display: table-cell;
+}
+.about-link {
+  padding-inline-start: 1em;
+}
