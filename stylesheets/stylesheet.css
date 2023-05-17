@@ -256,6 +256,9 @@ a {
 .about-links .about-label {
   display: table-cell;
 }
+.about-label {
+  text-align: right;
+}
 .about-link {
   padding-inline-start: 1em;
 }
